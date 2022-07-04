@@ -1,2 +1,2 @@
 # pubdoc
-Shell Drivent Manual-Pages for platform CLIs as a convenience.
+Basic Markdown docs platform CLIs & websites as a convenience.
