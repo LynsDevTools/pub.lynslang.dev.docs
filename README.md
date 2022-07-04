@@ -1,2 +1,2 @@
 # pubdoc
-Basic Markdown docs platform CLIs & websites as a convenience.
+Basic developer-docs for platform CLIs & websites as a convenience.
